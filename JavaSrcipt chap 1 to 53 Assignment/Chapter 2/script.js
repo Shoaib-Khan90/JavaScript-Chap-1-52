@@ -25,6 +25,21 @@
 
 //QUESTION NO 5
 
-var data = "plzz \n plz \n pl \n p "
+// var data = "plzz \n plz \n pl \n p "
+// alert(data)
 
-alert(data)
+//QUESTION NO 6
+
+// var Email = "sk7878687@gmail.com"
+// alert("My Email Address Is " + Email)
+
+//QUESTION NO 7
+
+// var book = "A smarter way to learn JavaScript"
+// alert(book)
+
+//QUESTION NO 8
+
+// let text = document.getElementById("text")
+// text.innerText = "Yah! I Can Write HTML Content Through JavaScript"
+
