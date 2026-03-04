@@ -143,31 +143,31 @@
 
 //QUESTION NO 11
 
-let firstnum = +prompt("Enter the first num:")
-let secondnum = +prompt("Enter the second num")
-let operator = prompt("Enter the operation (+, -, *, /, %):");
-let result;
+// let firstnum = +prompt("Enter the first num:")
+// let secondnum = +prompt("Enter the second num")
+// let operator = prompt("Enter the operation (+, -, *, /, %):");
+// let result;
 
-if (operator == "+"){
-    result=firstnum+secondnum
-    document.write("The addition of the value is " ,result)
-}
-else if(operator == "-"){
-      result=firstnum-secondnum
-    document.write("The Subtraction of the value is " ,result)
-}
-else if(operator == "*"){
-      result=firstnum*secondnum
-    document.write("The Multiplication of the value is " ,result)
-}
-else if (operator == "/"){
-      result=firstnum/secondnum
-    document.write("The Division of the value is " ,result)
-}
-else if (operator == "%"){
-      result=firstnum%secondnum
-    document.write("The Moduls of the value is " ,result)
-}
-else{
-    document.write("Not Found")
-}
+// if (operator == "+"){
+//     result=firstnum+secondnum
+//     document.write("The addition of the value is " ,result)
+// }
+// else if(operator == "-"){
+//       result=firstnum-secondnum
+//     document.write("The Subtraction of the value is " ,result)
+// }
+// else if(operator == "*"){
+//       result=firstnum*secondnum
+//     document.write("The Multiplication of the value is " ,result)
+// }
+// else if (operator == "/"){
+//       result=firstnum/secondnum
+//     document.write("The Division of the value is " ,result)
+// }
+// else if (operator == "%"){
+//       result=firstnum%secondnum
+//     document.write("The Moduls of the value is " ,result)
+// }
+// else{
+//     document.write("Not Found")
+// }
