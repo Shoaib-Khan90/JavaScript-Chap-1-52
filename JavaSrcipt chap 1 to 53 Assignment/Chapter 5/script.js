@@ -82,3 +82,4 @@
 // var calculation = 5*10/2
 // document.write("The final result is : ", calculation)
 
+//ab jo bi question ha easy ha sab is tarah ha is waja sa chor diya is kaa or 
