@@ -63,3 +63,22 @@
 // document.write("Total cost of your order is " + cost + "<br>")
 
 //QUESTION NO 8
+
+// var studmarks = 980
+// var studmarksobtain = 804
+// var percentage = 804*100/980
+// document.write("Total marks : " , studmarks , "<br>")
+// document.write("Total marks obtained : " , studmarksobtain , "<br>")
+// document.write("Percentage : ", percentage)
+
+//QUESTION NO 9
+
+// var dollar = 5
+// var convert = dollar*283
+// document.write("Total Currency in PKR : " , convert)
+
+//QUESTION NO 10 
+
+// var calculation = 5*10/2
+// document.write("The final result is : ", calculation)
+
