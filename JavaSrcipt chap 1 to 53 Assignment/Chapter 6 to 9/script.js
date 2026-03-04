@@ -35,25 +35,25 @@
 
 //QUESTION NO 6
 
-let sub1 = "Physics"
-let sub2 = "Chemistry"
-let sub3 = "Math"
-let totalmarks = 100;
-let totalmarks1 = 100*3
-let objsub1 = 85;
-let objsub2 = 95
-let objsub3 = 90;
-let obtainedmarks = objsub1 + objsub2 + objsub3
-let percentage = totalmarks*obtainedmarks/totalmarks1  
+// let sub1 = "Physics"
+// let sub2 = "Chemistry"
+// let sub3 = "Math"
+// let totalmarks = 100;
+// let totalmarks1 = 100*3
+// let objsub1 = 85;
+// let objsub2 = 95
+// let objsub3 = 90;
+// let obtainedmarks = objsub1 + objsub2 + objsub3
+// let percentage = totalmarks*obtainedmarks/totalmarks1  
 
 
-document.write("SUBJECT TOTAL MARKS AND OBTAINED MARKS AND PERCENTAGE" + "<br>" + "<br>")
+// document.write("SUBJECT TOTAL MARKS AND OBTAINED MARKS AND PERCENTAGE" + "<br>" + "<br>")
 
-document.write(sub1 + " &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;" + totalmarks +  "&nbsp; &nbsp; &nbsp; &nbsp;" + objsub1 + "&nbsp; &nbsp; &nbsp; &nbsp;" + " 85% " + "<br>" + "<br>" )
-document.write(sub2 + "&nbsp; &nbsp; &nbsp; &nbsp;" + totalmarks +  "&nbsp; &nbsp; &nbsp; &nbsp;" + objsub2 + "&nbsp; &nbsp; &nbsp; &nbsp;" + " 95% " + "<br>" + "<br>" )
-document.write(sub3 + "&nbsp; &nbsp;  &nbsp; &nbsp;&nbsp;&nbsp; &nbsp; &nbsp; &nbsp;" + totalmarks +  "&nbsp; &nbsp; &nbsp; &nbsp;" + objsub3 + "&nbsp; &nbsp; &nbsp; &nbsp;" + " 90% " + "<br>" + "<br>" )
-document.write("&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp;&nbsp;&nbsp; &nbsp; &nbsp; &nbsp;" +totalmarks1)
-document.write("&nbsp; &nbsp;  &nbsp; " +obtainedmarks)
-document.write("&nbsp; &nbsp;  &nbsp; &nbsp;&nbsp;" + percentage + "%")
+// document.write(sub1 + " &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;" + totalmarks +  "&nbsp; &nbsp; &nbsp; &nbsp;" + objsub1 + "&nbsp; &nbsp; &nbsp; &nbsp;" + " 85% " + "<br>" + "<br>" )
+// document.write(sub2 + "&nbsp; &nbsp; &nbsp; &nbsp;" + totalmarks +  "&nbsp; &nbsp; &nbsp; &nbsp;" + objsub2 + "&nbsp; &nbsp; &nbsp; &nbsp;" + " 95% " + "<br>" + "<br>" )
+// document.write(sub3 + "&nbsp; &nbsp;  &nbsp; &nbsp;&nbsp;&nbsp; &nbsp; &nbsp; &nbsp;" + totalmarks +  "&nbsp; &nbsp; &nbsp; &nbsp;" + objsub3 + "&nbsp; &nbsp; &nbsp; &nbsp;" + " 90% " + "<br>" + "<br>" )
+// document.write("&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp;&nbsp;&nbsp; &nbsp; &nbsp; &nbsp;" +totalmarks1)
+// document.write("&nbsp; &nbsp;  &nbsp; " +obtainedmarks)
+// document.write("&nbsp; &nbsp;  &nbsp; &nbsp;&nbsp;" + percentage + "%")
 
 
