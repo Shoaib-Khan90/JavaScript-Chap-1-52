@@ -88,3 +88,19 @@
 //          greeting = "Good evening"; 
 //         }
 
+//QUESTION NO 7
+
+// let user = prompt("Enter 24 hours clock in like (1900)=7pm")
+
+// if (user>=0 && user<=1200){
+//     document.write("Good Morning")
+// }
+// else if (user>=1200 && user<=1700){
+//     document.write("Good Afternoon")
+// }
+// else if (user>=1700 && user<=2100){
+//     document.write("Good Evening")
+// }
+// else{
+//     document.write("Good Night")
+// }
