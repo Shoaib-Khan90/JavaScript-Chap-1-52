@@ -114,6 +114,12 @@
 
 //QUESTION NO 11
 
-let cityname = ["lahore" ,"islamabad" ,"karachi" ,"quetta"]
-let selectedcities = cityname[0]
-document.write(selectedcities)
+// let cityname = ["lahore" , "karachi" , "islamabad" ,"quetta"]
+// let selectedcities = cityname.slice(2,4)
+// document.write(selectedcities)
+
+//QUESTION NO 12
+
+var arr = ["This","Is","My","Cat"]
+document.write(arr) 
+document.write(...arr)
