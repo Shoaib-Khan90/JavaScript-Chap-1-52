@@ -120,6 +120,19 @@
 
 //QUESTION NO 12
 
-var arr = ["This","Is","My","Cat"]
-document.write(arr) 
-document.write(...arr)
+// var arr = ["This","Is","My","Cat"]
+// document.write(arr) 
+// document.write(...arr)
+
+//QUESTION NO 13
+
+let arr = []
+arr.push("Keyboard")
+arr.push("Mouse")
+arr.push("Printer")
+arr.push("Monitor")
+document.write (arr + "<br>")
+let first = arr.shift()
+document.write(first + "<br>")
+let second = arr.shift(1)
+document.write(second)
