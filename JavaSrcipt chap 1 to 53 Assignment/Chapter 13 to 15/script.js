@@ -126,13 +126,13 @@
 
 //QUESTION NO 13
 
-let arr = []
-arr.push("Keyboard")
-arr.push("Mouse")
-arr.push("Printer")
-arr.push("Monitor")
-document.write (arr + "<br>")
-let first = arr.shift()
-document.write(first + "<br>")
-let second = arr.shift(1)
-document.write(second)
+// let arr = []
+// arr.push("Keyboard")
+// arr.push("Mouse")
+// arr.push("Printer")
+// arr.push("Monitor")
+// document.write (arr + "<br>")
+// let first = arr.shift()
+// document.write(first + "<br>")
+// let second = arr.shift(1)
+// document.write(second)
