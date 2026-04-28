@@ -63,12 +63,44 @@
 
 //QUESTION NO 11
 
-let num = 35.36
-let string = num.toString()
-let result = string.replace("." , "")
+// let num = 35.36
+// let string = num.toString()
+// let result = string.replace("." , "")
 
-document.write("original : " + num + "<br>")
-document.write("Final : " + result)
+// document.write("original : " + num + "<br>")
+// document.write("Final : " + result)
 
 //QUESTION NO 12
 
+// var user = prompt("Enter the email")
+// var hash =  ['@', '.', ',', '!'];
+// var invalid = true;
+
+// for (let i=0; i<user.length; i++){
+//     if(hash.includes(user[i])){
+//         invalid=false;
+//         break
+//     }
+// }
+
+// if (invalid){
+//     document.write("your sucessfully login")
+// }
+// else{
+//     document.write("Not availabe")
+// }
+
+//QUESTION NO 13
+
+// var uni = "University of karachi"
+// var user = uni.split("")
+
+// for (let i=0 ; i<uni.length ; i++){
+//     document.write(user[i] +  "<br>")
+// }
+
+//QUESTION NO 14
+
+var Character = "Pakistan"
+var char = Character.charAt("7")
+document.write(char)
